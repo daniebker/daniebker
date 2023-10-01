@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniebker
-- 👀 I’m interested in fitness, [photography](https://danbakerphoto.com), and web apps. I code mostly in TypeScript.
-- 🌱 I’m currently learning to code custom google sheets using TypeScript and clasp. Also dabbling in GO.
+- 👀 I’m interested in fitness, [photography](https://danbakerphoto.com), and making games. These days I code mostly in TypeScript, but I have worked in java and C#.
+- 🌱 I’m currently re-learning C++ by building a roguelike using libtcod.
 - 💞️ I’m not looking to collaborate on anything right now. 
 
 <!---
